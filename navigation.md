@@ -1,20 +1,21 @@
-# YourPageTitle
+# Erik's Wiki
 
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
+[HOME](home.md)
 
-[SubMenuName]()
+[Links](links.md)
 
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+- - - -
 
-<!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
+[i3]()
 
-<!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
+* [ quickswitch.py ](quickswitch.md)
 
-<!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
+- - - -
+[bash]()
+
+* [ create a list of server aliases ](server-aliases.md)
+* [ Howto's ](bash-howto.md)
+
+- - - -
+
+[Downloads](downloads.md)
