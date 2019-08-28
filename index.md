@@ -1,4 +1,21 @@
-About
-=====
+# Erik's Wiki
 
-This is an MDwiki seed project. Edit the files to adopt to your website or wiki style.
+[HOME](home.md)
+
+[Links](links.md)
+
+- - - -
+
+[i3]()
+
+* [ quickswitch.py ](quickswitch.md)
+
+- - - -
+[bash]()
+
+* [ create a list of server aliases ](server-aliases.md)
+* [ Howto's ](bash-howto.md)
+
+- - - -
+
+[Downloads](downloads.md)
