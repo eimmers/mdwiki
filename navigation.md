@@ -15,7 +15,7 @@
 
 * [ create a list of server aliases ](server-aliases.md)
 * [ Howto's ](bash-howto.md)
-* [ Bash Function examples(bash-function-examples.md)
+* [ Bash Function examples](bash-function-examples.md)
 
 - - - -
 
