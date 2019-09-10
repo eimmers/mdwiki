@@ -1,4 +1,4 @@
-=== find all java versions on local filesystem
+#### find all java versions on local filesystem ####
 ```
 #!/bin/bash
 
