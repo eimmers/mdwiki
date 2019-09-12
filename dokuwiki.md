@@ -4,3 +4,8 @@
 
 === topic 1
 ```
+
+#### create an External link
+```
+[[http://nos.nl|nieuws]]
+```
